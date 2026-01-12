@@ -11,7 +11,7 @@ output:
 
 *For all questions, include the R commands/functions that you used to find your answer (show R chunk). Answers without supporting code will not receive credit. Write full sentences to describe your findings.*
 
-In this lab, you will explore the dataset `faithful`. It contains information about eruptions of the Old Faithful geyser in Yellowstone National Park. The first few observations are listed below.
+In this lab, you will explore the dataset `faithful`. It contains information about eruptions of the Old Faithful geyser in Yellowstone National Park. The first few observations are shown below.
 
 ```{r, warning=FALSE,message=FALSE}
 ## Load the R packages that you will need for this Lab
