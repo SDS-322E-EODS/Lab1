@@ -24,7 +24,7 @@ faithful |>
 
 ### Question 1: (2 pts)
 
-The first goal is to determine how many rows and columns are in the dataset. Without looking at the data, have each group member guess how how many rows there are.
+The first goal is to determine how many rows and columns are in the dataset. Without looking at the data, have each group member guess how many rows there are.
 
 **Your answer goes here. Write sentences in bold.**
 
